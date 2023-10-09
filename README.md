@@ -1,2 +1,3 @@
 # Construction-Ashwin
-This is my first Git Repositry
+This is My first Git Repository.
+Author - D.r A.P.J Abdul Kalam
